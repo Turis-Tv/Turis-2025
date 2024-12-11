@@ -3,123 +3,118 @@
 const channels = [
   {
     name: "Atv | b",
-    category: "News, Local",
+    category: "Ulusal",
     url: "http://hw1.jemtv.com/app/ATVHD/playlist.m3u8"
   },
   {
     name: "Atv | c",
-    category: "News, Local",
+    category: "Ulusal",
     url: "https://tgn.bozztv.com/trn03/gt-atv-tv/tracks-v1a1/mono.m3u8"
   },
   {
     name: "fox",
-    category: "News, Local",
+    category: "Ulusal",
     url: "http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8"
   },
   {
     name: "kanal 7",
-    category: "News, Local",
+    category: "Ulusal",
     url: "http://hw1.jemtv.com/app/Kanal7/playlist.m3u8"
   },
   {
     name: "kanal d",
-    category: "News",
+    category: "Ulusal",
     url: "http://hw1.jemtv.com/app/KanalD/playlist.m3u8"
   },
   {
     name: "show tv",
-    category: "News",
+    category: "Ulusal",
     url: "http://hw1.jemtv.com/app/ShowTV/playlist.m3u8"
   },
   {
     name: "Star",
-    category: "News",
-    url:
-      "http://hw1.jemtv.com/app/StarTV/playlist.m3u8"
+    category: "Ulusal",
+    url: "http://hw1.jemtv.com/app/StarTV/playlist.m3u8"
   },
   {
     name: "trt 1",
-    category: "News",
+    category: "Ulusal",
     url: "http://hw1.jemtv.com/app/trt1/playlist.m3u8"
   },
   {
     name: "Tv8",
-    category: "News",
+    category: "Ulusal",
     url: "http://hw1.jemtv.com/app/tv8/playlist.m3u8"
   },
   {
     name: "360",
-    category: "Sports",
+    category: "Ulusal",
     url: "https://tv8-live.daioncdn.net/tv8/tv8.m3u8"
   },
   {
     name: "a haber",
-    category: "Lifestyle",
+    category: "Ulusal",
     url: "http://hw1.jemtv.com/app/AHaber/playlist.m3u8"
   },
   {
     name: "Akit tv",
-    category: "Lifestyle",
+    category: "Ulusal",
     url: "http://hw1.jemtv.com/app/akittv/playlist.m3u8"
   },
-  {
-    name: "Bon Appétit",
-    category: "Lifestyle",
-    url: "https://bonappetit-samsung.amagi.tv/playlist.m3u8"
-  },
+
   {
     name: "Beeyaz Tv",
-    category: "World Poker Tour",
+    category: "Ulusal",
     url: "http://hw1.jemtv.com/app/beyaz/playlist.m3u8"
   },
   {
     name: "Cnn",
-    category: "Movies",
+    category: "Ulusal",
     url: "http://hw1.jemtv.com/app/cnnturk/playlist.m3u8"
   },
   {
     name: "Tele 1",
-    category: "Movies",
+    category: "Ulusal",
     url: "http://hw1.jemtv.com/app/tele1/playlist.m3u8"
   },
   {
     name: "Trt Muzik",
-    category: "Music",
+    category: "Ulusal",
     url: "http://hw2.jemtv.com/app/10063.stream/playlist.m3u8"
   },
   {
     name: "Ulke Tv",
-    category: "Musics",
+    category: "Ulusal",
     url: "http://hw1.jemtv.com/app/ulketv/playlist.m3u8"
   },
   {
     name: "A2",
-    category: "Comics",
+    category: "Ulusal",
     url: "https://tgn.bozztv.com/dvrfl05/gin-atva2/tracks-v1a1/mono.m3u8"
   },
   {
     name: "Beinsport haber",
-    category: "Comics",
+    category: "Ulusal",
     url: "https://trn03.tulix.tv/gt-beinsportshaber/index.m3u8"
   },
   {
     name: "Bengü türk",
-    category: "Comics",
+    category: "Ulusal",
     url: "https://trn03.tulix.tv/gt-benguturk/index.m3u8"
   },
   {
     name: "Cnn türk",
-    category: "Comics",
+    category: "Ulusal",
     url: "https://tgn.bozztv.com/dvrfl05/gin-cnnturk/tracks-v1a1/mono.m3u8"
   },
   {
     name: "Dmax",
-    category: "Tiktok",
+    category: "Ulusal",
     url: "https://trn03.tulix.tv/gt-dmax/index.m3u8"
   },
   {
     name: "Dream türk",
-    category: "News, KR",
+    category: "Ulusal",
     url: "https://trn03.tulix.tv/gt-dreamturk/index.m3u8"
   }
 ];
