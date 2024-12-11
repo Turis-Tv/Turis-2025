@@ -3,7 +3,7 @@ var playerInstance = jwplayer("jwplayerDiv");
 // Function to switch to another stream with M3U8 URL and no DRM
   function switchToOtherStream1() {
     playerInstance.setup({
-      file: "http://cdn.adultiptv.net/anal.m3u8",
+      file: "http://hw1.jemtv.com/app/ATVHD/playlist.m3u8",
       type: "hls",  // Set the type to HLS for M3U8 URLs
     });
   }
@@ -11,28 +11,28 @@ var playerInstance = jwplayer("jwplayerDiv");
   // Function to switch to another stream with M3U8 URL and no DRM
   function switchToOtherStream2() {
     playerInstance.setup({
-      file: "http://cdn.adultiptv.net/asian.m3u8",
+      file: "http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8",
       type: "hls",  // Set the type to HLS for M3U8 URLs
     });
   }
 // Function to switch to another stream with M3U8 URL and no DRM
   function switchToOtherStream3() {
     playerInstance.setup({
-      file: "http://cdn.adultiptv.net/bigass.m3u8",
+      file: "http://hw1.jemtv.com/app/Kanal7/playlist.m3u8",
       type: "hls",  // Set the type to HLS for M3U8 URLs
     });
   }
 // Function to switch to another stream with M3U8 URL and no DRM
   function switchToOtherStream4() {
     playerInstance.setup({
-      file: "http://cdn.adultiptv.net/bigdick.m3u8",
+      file: "http://hw1.jemtv.com/app/KanalD/playlist.m3u8",
       type: "hls",  // Set the type to HLS for M3U8 URLs
     });
   }
 // Function to switch to another stream with M3U8 URL and no DRM
   function switchToOtherStream5() {
     playerInstance.setup({
-      file: "https://production-binge-content-partner.videoready.tv/RebelHudugaru_Movie/AppleHLS1/RebelHudugaru_Movie_hls3000.m3u8",
+      file: "https://trn03.tulix.tv/gt-show-tv/index.m3u8",
       type: "hls",  // Set the type to HLS for M3U8 URLs
     });
   }
