@@ -1,7 +1,9 @@
 const channelList = [
-    { name: "قناة 1", image: "https://g.top4top.io/p_2666slfsx1.jpg", source: "http://hw1.jemtv.com/app/ATVHD/playlist.m3u8" },
-    { name: "قناة 2", image: "https://g.top4top.io/p_2666slfsx1.jpg", source: "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8" },
-    // إضافة المزيد من القنوات هنا
+    { name: "Atv", image: "https://od.lk/s/OTFfMzE0ODk1MjZf/24.png", source: "http://hw1.jemtv.com/app/ATVHD/playlist.m3u8" },
+    { name: "Kanal7", image: "https://od.lk/s/OTFfMzE0ODk1MjZf/24.png", source: "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8" },
+    { name: "Atv", image: "https://od.lk/s/OTFfMzE0ODk1MjZf/24.png", source: "https://tgn.bozztv.com/trn03/gt-atv-tv/tracks-v1a1/mono.m3u8" },
+    { name: "Fox Tv", image: "https://od.lk/s/OTFfMzE0ODk1MjZf/24.png", source: "http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8" },
+    // إHindistan'ın Yeni Yılı
 ];
 
 const channelListContainer = document.getElementById("channel-list");
