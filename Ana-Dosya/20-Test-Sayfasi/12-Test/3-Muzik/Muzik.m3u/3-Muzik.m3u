@@ -1,0 +1,40 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  FiNEST TV",FiNEST TV
+http://media.finest.tv/hls/live.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  TATLISES TV",TATLISES TV
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  KRALPOP",KRALPOP
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_360p.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  KRAL",KRAL
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  TRT MUZiK",TRT MUZiK
+https://tv-trtmuzik.medya.trt.com.tr/master_360.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  POWER TURK",POWER TURK
+https://tgn.bozztv.com/dvrfl05/gin-powerhd/tracks-v1a1/mono.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  POWER SLOW",POWER SLOW
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  POWER TURK TAPTAZE",POWER TURK TAPTAZE
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  DREAM TURK",DREAM TURK
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  Nr1aşk",Nr1aşk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  Nr1damar",Nr1damar
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  Nr1dance",Nr1dance
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  Nr1türk",Nr1türk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  Nr1dance",Nr1dance
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  Nr1türk",Nr1türk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  Powerlove",Powerlove
+https://listen.powerapp.com.tr/plove/love.smil/master.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  Sılatv",Sılatv
+https://tvsms.club/tv.php?kanal=silatv&file=.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  Tempo tv",Tempo tv
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8?start=LIVE&end=END
+
