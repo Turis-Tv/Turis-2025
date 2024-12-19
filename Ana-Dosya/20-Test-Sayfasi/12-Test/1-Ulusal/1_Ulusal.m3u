@@ -1,0 +1,112 @@
+#EXTM3U
+
+
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-logo-35C825BDBB-seeklogo.com.png" group-title="🇹🇷  ATV",ATV 🇹🇷
+https://yayin2.canlitv.fun/livetv/atv.stream/master.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-logo-35C825BDBB-seeklogo.com.png" group-title="🇹🇷  ATV| a",ATV| a 🇹🇷
+https://c.fulltvizle.com/aytv/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-logo-35C825BDBB-seeklogo.com.png" group-title="🇹🇷  ATV| b",ATV| b 🇹🇷
+https://tgn.bozztv.com/trn03/gt-atv-tv/tracks-v1a1/mono.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-logo-35C825BDBB-seeklogo.com.png" group-title="🇹🇷  ATV EU",ATV EU 🇹🇷
+https://tgn.bozztv.com/trn03/gt-atv-tv/tracks-v1a1/mono.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoVDmuxiIIfNhunVuNeRbWVFmgmvzE_w4DAg&s" group-title="🇹🇷  NOW",NOW 🇹🇷
+https://tgn.bozztv.com/trn03/gt-foxturktv/tracks-v1a1/mono.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoVDmuxiIIfNhunVuNeRbWVFmgmvzE_w4DAg&s" group-title="🇹🇷  NOW| a",NOW| a 🇹🇷
+https://yayin2.canlitv.fun/livetv/foxtv.stream/master.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="🇹🇷  KANAL 7",KANAL 7 🇹🇷
+https://tgn.bozztv.com/dvrfl05/gin-kanal7/tracks-v1a1/mono.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="🇹🇷  KANAL 7| a",KANAL 7| a 🇹🇷
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="🇹🇷  KANAL 7| b",KANAL 7| b 🇹🇷
+https://tgn.bozztv.com/dvrfl05/gin-kanal7/tracks-v1a1/mono.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="🇹🇷  KANAL 7| c",KANAL 7| c 🇹🇷
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="  " group-title="🇹🇷  KANAL 7 EU",KANAL 7 EU 🇹🇷
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/240-101_import.png" group-title="🇹🇷  KANAL D",KANAL D 🇹🇷
+https://yayin2.canlitv.fun/livetv/kanald.stream/master.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/240-101_import.png" group-title="🇹🇷  KANAL D| a",KANAL D| a 🇹🇷
+https://c.fulltvizle.com/kanald/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/240-101_import.png" group-title="🇹🇷  KANAL D| b",KANAL D| b 🇹🇷
+https://helga.iptv2022.com/kanal_d/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/240-101_import.png" group-title="🇹🇷  KANAL D| c",KANAL D| c 🇹🇷
+https://helga.iptv2022.com/kanal_d/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/240-101_import.png" group-title="🇹🇷  EURO D",EURO D 🇹🇷
+https://tgn.bozztv.com/dvrfl05/gin-eurod/tracks-v1a1/mono.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rPpOXVk2tQs/sddefault.jpg" group-title="🇹🇷  SHOW",SHOW 🇹🇷
+https://yayin2.canlitv.fun/livetv/showtv.stream/master.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rPpOXVk2tQs/sddefault.jpg" group-title="🇹🇷  SHOW| a",SHOW| a
+https://tgn.bozztv.com/trn03/gt-show-tv/tracks-v1a1/mono.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rPpOXVk2tQs/sddefault.jpg" group-title="🇹🇷  SHOW| b",SHOW| b 🇹🇷
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rPpOXVk2tQs/sddefault.jpg" group-title="🇹🇷  SHOW| c",SHOW| c 🇹🇷
+https://tgn.bozztv.com/trn03/gt-show-tv/tracks-v1a1/mono.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://tutusmedia.com/wp-content/uploads/2019/02/show_turk.png" group-title="🇹🇷  SHOW TÜRK",SHOW TÜRK 🇹🇷
+https://tgn.bozztv.com/dvrfl05/gin-showtvturk/tracks-v1a1/mono.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://tutusmedia.com/wp-content/uploads/2019/02/show_turk.png" group-title="🇹🇷  SHOW TÜRK| a",SHOW TÜRK| a 🇹🇷
+https://helga.iptv2022.com/show_turk/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCA9s3eUOW3oppDc_8VqawX6-o0CCFePEQZQ&usqp=CAU" group-title="🇹🇷  STAR",STAR 🇹🇷
+https://yayin2.canlitv.fun/livetv/startv.stream/master.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCA9s3eUOW3oppDc_8VqawX6-o0CCFePEQZQ&usqp=CAU" group-title="🇹🇷  STAR| a",STAR| a 🇹🇷
+https://c.fulltvizle.com/star/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCA9s3eUOW3oppDc_8VqawX6-o0CCFePEQZQ&usqp=CAU" group-title="🇹🇷  STAR| b",STAR| b 🇹🇷
+https://dogus-live.daioncdn.net/startv/startv.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68Cmp7VbjledIRHpyA3haRpvrCOcE-_AlJQ&usqp=CAU" group-title="🇹🇷  EURO STAR",EURO STAR 🇹🇷
+https://tgn.bozztv.com/trn03/gt-eurostar/tracks-v1a1/mono.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMrU5IkSf2tzU4Zu_8_CfZ6wXxf3to6Tvy8Q&s" group-title="🇹🇷  TRT 1 ",TRT 1 🇹🇷
+https://tgn.bozztv.com/dvrfl05/gin-trt1eu/tracks-v1a1/mono.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMrU5IkSf2tzU4Zu_8_CfZ6wXxf3to6Tvy8Q&s" group-title="🇹🇷  TRT 1| a ",TRT 1| a 🇹🇷
+https://yayin2.canlitv.fun/livetv/trt1.stream/master.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMrU5IkSf2tzU4Zu_8_CfZ6wXxf3to6Tvy8Q&s" group-title="🇹🇷  TRT 1| b",TRT 1| b 🇹🇷
+https://helga.iptv2022.com/trt_1/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMrU5IkSf2tzU4Zu_8_CfZ6wXxf3to6Tvy8Q&s" group-title="🇹🇷  TRT 1| c,TRT 1| c 🇹🇷
+https://tgn.bozztv.com/dvrfl05/gin-trt1eu/tracks-v1a1/mono.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="  " group-title="🇹🇷  TRT AVAZ",TRT AVAZ 🇹🇷
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0DtM9-81qr2eu61T_Ec_YJB1SkoqdRbczrQ&s" group-title="🇹🇷  TRT TÜRK",TRT TÜRK 🇹🇷
+https://tgn.bozztv.com/dvrfl05/gin-trtturk/tracks-v1a1/mono.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.seadn.io/gae/-NmYupO9Rd_rspoMVAMBEHvMsdv21cccjxryRCsslM_4NFWr5Ex1nUjEyhK2B6m4WLGUiHqq3Y35E8Pmfsz_3o7P3v8ziQaYGtrL?auto=format&dpr=1&w=1000" group-title="🇹🇷  TV8",TV8 🇹🇷
+https://yayin2.canlitv.fun/livetv/tv8.stream/master.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.seadn.io/gae/-NmYupO9Rd_rspoMVAMBEHvMsdv21cccjxryRCsslM_4NFWr5Ex1nUjEyhK2B6m4WLGUiHqq3Y35E8Pmfsz_3o7P3v8ziQaYGtrL?auto=format&dpr=1&w=1000" group-title="🇹🇷  TV8| a",TV8| a 🇹🇷
+https://c.fulltvizle.com/kanal8/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.seadn.io/gae/-NmYupO9Rd_rspoMVAMBEHvMsdv21cccjxryRCsslM_4NFWr5Ex1nUjEyhK2B6m4WLGUiHqq3Y35E8Pmfsz_3o7P3v8ziQaYGtrL?auto=format&dpr=1&w=1000" group-title="🇹🇷  TV8| b",TV8| b 🇹🇷
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.seadn.io/gae/-NmYupO9Rd_rspoMVAMBEHvMsdv21cccjxryRCsslM_4NFWr5Ex1nUjEyhK2B6m4WLGUiHqq3Y35E8Pmfsz_3o7P3v8ziQaYGtrL?auto=format&dpr=1&w=1000" group-title="🇹🇷  TV8| c",TV8| c 🇹🇷
+https://yayin2.canlitv.fun/livetv/tv8.stream/master.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyn_0Vpa5fLt_Ctq6KwTxkUaohGSIjfDf4tQ&suto=format&dpr=1&w=1000" group-title="🇹🇷  TRT TV8 Int",TV8 Int 🇹🇷
+https://tgn.bozztv.com/dvrfl05/gin-tv8int/tracks-v1a1/mono.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1626885016901808132/iXrZylss_400x400.jpg" group-title="🇹🇷  A2",A2 🇹🇷
+https://tgn.bozztv.com/dvrfl05/gin-atva2/tracks-v1a1/mono.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OYyWb0CbV7moC0vMYSWR-IPv2m1qckuV8uYFhACjomW9lDj-h1LJb6lqIzAbJDlR4KY" group-title="🇹🇷  BEYAZ TV",BEYAZ TV 🇹🇷
+https://tgn.bozztv.com/dvrfl05/gin-beyaztv/tracks-v1a1/mono.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OYyWb0CbV7moC0vMYSWR-IPv2m1qckuV8uYFhACjomW9lDj-h1LJb6lqIzAbJDlR4KY" group-title="🇹🇷  BEYAZ TV| a",BEYAZ TV| a 🇹🇷
+https://helga.iptv2022.com/beyaz_tv/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnucl_sS2Xbia0veAQ8KiXescVI-6qBVqMQ&usqp=CAU16851593598?e=2147483647&v=beta&t=aqrexl0C3-fjegSM46MIuKwcS8JuoY4zztPAzcfmKB0" group-title="🇹🇷  DÜNYA TV",DÜNYA TV 🇹🇷
+https://tgn.bozztv.com/dvrfl05/gin-dunya/tracks-v1a1/mono.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="  " group-title="🇹🇷  KANAL AVRUPA",KANAL AVRUPA 🇹🇷
+https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717135101102882816/0kzCiy_7_400x400.jpg" group-title="🇹🇷  TEVE 2",TEVE 2 🇹🇷
+https://tgn.bozztv.com/dvrfl05/gin-tv2tv/tracks-v1a1/mono.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3lABEz__rNNQssvdLnudafoVyBNQTDhwuuA&s" group-title="🇹🇷  TGRT EU",TGRT EU 🇹🇷
+https://tgn.bozztv.com/dvrfl05/gin-tgrteu/tracks-v1a1/mono.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="  " group-title="🇹🇷  KARDELEN TV",KARDELEN TV 🇹🇷
+https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="  " group-title="🇹🇷  MERCAN TV",MERCAN TV 🇹🇷
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="  " group-title="🇹🇷  MUGLA TÜRK",MUGLA TÜRK 🇹🇷
+https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="  " group-title="🇹🇷  NORA TV",NORA TV 🇹🇷
+https://live.artidijitalmedya.com/artidijital_noratv/noratv/chunks.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="  " group-title="🇹🇷  OLAY TÜRK",OLAY TÜRK 🇹🇷
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="  " group-title="🇹🇷  TRT 2",TRT 2 🇹🇷
+https://tv-trt2.medya.trt.com.tr/master.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="  " group-title="🇹🇷  CINE 5",CINE 5 🇹🇷
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/.m3u8?start=LIVE&end=END
+
+
+
+
+
