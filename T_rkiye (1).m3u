@@ -371,8 +371,18 @@ https://trn03.tulix.tv/gt-kepeztv-azer/index.m3u8
 https://tgn.bozztv.com/36bay3/gt-kibriskrttv/tracks-v1a1/mono.m3u8
 #EXTINF:0 CUID="53" tvg-name="Kral pop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVpKM2eqzr8gbcHydPlwkyy334C_hxz1nFyQ&sffff-no-rj" group-title="GinikoTv",Kral pop
 https://tgn.bozztv.com/dvrfl05/gin-kralpop/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
 #EXTINF:0 CUID="54" tvg-name="Mavi karadeniz" tvg-logo="https://yt3.googleusercontent.com/lh2sMuvkBZ62BgpiVnq59B3FzkDLfRTN-6EHI3nLRsbTn9YGshsEHxypCr5jJ0Qc4uxmYdkfJBc=s900-c-k-c0x00ffffff-no-rj" group-title="GinikoTv",Mavi karadeniz
 https://tgn.bozztv.com/36bay3/gt-mavikaradeniz/tracks-v1a1/mono.m3u8
+
+
+
+
 #EXTINF:0 CUID="55" tvg-name="Medeniyyet az" tvg-logo="https://www.medeniyyet.az/img/news/900x/_1583909888.jpg" group-title="GinikoTv",Medeniyyet az
 https://trn03.tulix.tv/gt-medeniyyet/index.m3u8
 #EXTINF:0 CUID="56" tvg-name="Ntv" tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2fffff-no-rj" group-title="GinikoTv",Ntv
@@ -1323,6 +1333,31 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist.m3u8
 #EXTINF:0 CUID="596" tvg-name="360" group-title="Karışık kaynaklar",360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
+#EXTINF:0 CUID="4858" tvg-name="Power Turk (Turquia) (🇹🇷)" group-title="Corgol IPTV",Power Turk (Turquia) (🇹🇷)
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/.m3u8
+#EXTINF:0 CUID="4859" tvg-name="Power Turk Akustik (Turquia) (🇹🇷)" group-title="Corgol IPTV",Power Turk Akustik (Turquia) (🇹🇷)
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/.m3u8
+#EXTINF:0 CUID="4860" tvg-name="Power Turk Slow (Turquia) (🇹🇷)" group-title="Corgol IPTV",Power Turk Slow (Turquia) (🇹🇷)
+https://listen.powerapp.com.tr/pturkslow/slow.smil/.m3u8
+#EXTINF:0 CUID="4861" tvg-name="Power Turk Taptaze (Turquia) (🇹🇷)" group-title="Corgol IPTV",Power Turk Taptaze (Turquia) (🇹🇷)
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/.m3u8
+#EXTINF:0 CUID="4760" tvg-name="NR1 (Turquia) (🇹🇷)" group-title="Corgol IPTV",NR1 (Turquia) (🇹🇷)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/.m3u8
+#EXTINF:0 CUID="4761" tvg-name="NR1 Ask (Turquia) (🇹🇷)" group-title="Corgol IPTV",NR1 Ask (Turquia) (🇹🇷)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/.m3u8
+#EXTINF:0 CUID="4762" tvg-name="NR1 Damar (Turquia) (🇹🇷)" group-title="Corgol IPTV",NR1 Damar (Turquia) (🇹🇷)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/.m3u8
+#EXTINF:0 CUID="4763" tvg-name="NR1 Dance (Turquia) (🇹🇷)" group-title="Corgol IPTV",NR1 Dance (Turquia) (🇹🇷)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/.m3u8
+#EXTINF:0 CUID="4520" tvg-name="Kral Pop (Turquia) (🇹🇷)" group-title="Corgol IPTV",Kral Pop (Turquia) (🇹🇷)
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:0 CUID="4091" tvg-name="Cine 5 (Turquia) (🇹🇷)" group-title="Corgol IPTV",Cine 5 (Turquia) (🇹🇷)
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/.m3u8
+
+
+
+
 #EXTINF:0 CUID="2949" tvg-chno="null" tvg-name="AliGoshkar" group-title="Karışık kaynaklar",AliGoshkar
 https://aligoshgar.efir.com.tr:3037/stream/play.m3u8
 #EXTINF:0 CUID="3005" tvg-chno="null" tvg-name="BoxTv az" group-title="Karışık kaynaklar",BoxTv az
@@ -3645,8 +3680,7 @@ https://is.gd/Umdtpg?profile=corgol.m3u8
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:0 CUID="4089" tvg-name="Cine (España) (🇪🇸)" group-title="Corgol IPTV",Cine (España) (🇪🇸)
 https://is.gd/e6iAmH?profile=corgol.m3u8
-#EXTINF:0 CUID="4091" tvg-name="Cine 5 (Turquia) (🇹🇷)" group-title="Corgol IPTV",Cine 5 (Turquia) (🇹🇷)
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/.m3u8
+
 #EXTINF:0 CUID="4092" tvg-name="Cine Accion (España) (🇪🇸)" group-title="Corgol IPTV",Cine Accion (España) (🇪🇸)
 https://is.gd/wNvFEc?profile=corgol.m3u8
 #EXTINF:0 CUID="4093" tvg-name="Cine Accion (Mexico) (🇲🇽)" group-title="Corgol IPTV",Cine Accion (Mexico) (🇲🇽)
@@ -4479,8 +4513,7 @@ https://58f12ffd2447a.streamlock.net/KKTV01/livestream/.m3u8
 https://stream.cmctv.hr:49998/kit/live.m3u8
 #EXTINF:0 CUID="4519" tvg-name="Korean Song Channel (Corea) (🇰🇷)" group-title="Corgol IPTV",Korean Song Channel (Corea) (🇰🇷)
 http://live.kytv.co.kr:8080/hls/stream.m3u8
-#EXTINF:0 CUID="4520" tvg-name="Kral Pop (Turquia) (🇹🇷)" group-title="Corgol IPTV",Kral Pop (Turquia) (🇹🇷)
-https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+
 #EXTINF:0 CUID="4521" tvg-name="Kronehit (Austria) (🇦🇹)" group-title="Corgol IPTV",Kronehit (Austria) (🇦🇹)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:0 CUID="4522" tvg-name="Kurai (Rusia) (🇷🇺)" group-title="Corgol IPTV",Kurai (Rusia) (🇷🇺)
@@ -4929,14 +4962,9 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0 CUID="4759" tvg-name="NPC Musica (Portugal) (🇵🇹)" group-title="Corgol IPTV",NPC Musica (Portugal) (🇵🇹)
 https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/.m3u8
-#EXTINF:0 CUID="4760" tvg-name="NR1 (Turquia) (🇹🇷)" group-title="Corgol IPTV",NR1 (Turquia) (🇹🇷)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/.m3u8
-#EXTINF:0 CUID="4761" tvg-name="NR1 Ask (Turquia) (🇹🇷)" group-title="Corgol IPTV",NR1 Ask (Turquia) (🇹🇷)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/.m3u8
-#EXTINF:0 CUID="4762" tvg-name="NR1 Damar (Turquia) (🇹🇷)" group-title="Corgol IPTV",NR1 Damar (Turquia) (🇹🇷)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/.m3u8
-#EXTINF:0 CUID="4763" tvg-name="NR1 Dance (Turquia) (🇹🇷)" group-title="Corgol IPTV",NR1 Dance (Turquia) (🇹🇷)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/.m3u8
+
+
+
 #EXTINF:0 CUID="4764" tvg-name="NRJ (Belgica) (🇧🇪)" group-title="Corgol IPTV",NRJ (Belgica) (🇧🇪)
 https://tv.ngroup.be/live/ngrp:nrj_all/.m3u8
 #EXTINF:0 CUID="4765" tvg-name="NS Nor Selva (Peru) (🇵🇪)" group-title="Corgol IPTV",NS Nor Selva (Peru) (🇵🇪)
@@ -5115,16 +5143,15 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/.m3u8
 https://livetv.powerapp.com.tr/dance/dance.smil/.m3u8
 #EXTINF:0 CUID="4856" tvg-name="Power Love (Turquia) (🇹🇷)" group-title="Corgol IPTV",Power Love (Turquia) (🇹🇷)
 https://listen.powerapp.com.tr/plove/love.smil/.m3u8
-#EXTINF:0 CUID="4857" tvg-name="Power Max (Argentina) (🇦🇷)" group-title="Corgol IPTV",Power Max (Argentina) (🇦🇷)
-https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
-#EXTINF:0 CUID="4858" tvg-name="Power Turk (Turquia) (🇹🇷)" group-title="Corgol IPTV",Power Turk (Turquia) (🇹🇷)
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/.m3u8
-#EXTINF:0 CUID="4859" tvg-name="Power Turk Akustik (Turquia) (🇹🇷)" group-title="Corgol IPTV",Power Turk Akustik (Turquia) (🇹🇷)
-https://listen.powerapp.com.tr/pturkakustik/akustik.smil/.m3u8
-#EXTINF:0 CUID="4860" tvg-name="Power Turk Slow (Turquia) (🇹🇷)" group-title="Corgol IPTV",Power Turk Slow (Turquia) (🇹🇷)
-https://listen.powerapp.com.tr/pturkslow/slow.smil/.m3u8
-#EXTINF:0 CUID="4861" tvg-name="Power Turk Taptaze (Turquia) (🇹🇷)" group-title="Corgol IPTV",Power Turk Taptaze (Turquia) (🇹🇷)
-https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:0 CUID="4862" tvg-name="Premier League (UK) (🇬🇧)" group-title="Corgol IPTV",Premier League (UK) (🇬🇧)
 http://91.132.74.4:7374/play/a00k/index.m3u8
 #EXTINF:0 CUID="4863" tvg-name="Presumiendo Mexico (Mexico) (🇲🇽)" group-title="Corgol IPTV",Presumiendo Mexico (Mexico) (🇲🇽)
