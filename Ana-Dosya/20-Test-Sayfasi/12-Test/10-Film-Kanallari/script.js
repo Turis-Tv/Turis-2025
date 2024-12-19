@@ -10,7 +10,7 @@ function playLive() {
         alert('Veuillez entrer le lien de diffusion en direct');
     }
 }
-const m3uUrl = 'https://raw.githubusercontent.com/Turis-Tv/Turis-Tv-m3u/refs/heads/main/3-Muzik.m3u';
+const m3uUrl = 'https://raw.githubusercontent.com/Turis-Tv/Turis-2025/refs/heads/main/Ana-Dosya/20-Test-Sayfasi/12-Test/10-Film-Kanallari/10-Filmler/10-Filmler.m3u';
         const recentChannels = [];
 
         fetch(m3uUrl)
