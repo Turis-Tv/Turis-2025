@@ -10,7 +10,7 @@ function playLive() {
         alert('Veuillez entrer le lien de diffusion en direct');
     }
 }
-const m3uUrl = 'https://raw.githubusercontent.com/Turis-Tv/Turis-2025/refs/heads/main/Ana-Dosya/20-Test-Sayfasi/12-Test/1-Ulusal/1_Ulusal.m3u';
+const m3uUrl = 'https://raw.githubusercontent.com/Turis-Tv/Turis-2025/refs/heads/main/Ana-Dosya/20-Test-Sayfasi/15-Test-Player/5-Izle/5-Izle.m3u';
         const recentChannels = [];
 
         fetch(m3uUrl)
