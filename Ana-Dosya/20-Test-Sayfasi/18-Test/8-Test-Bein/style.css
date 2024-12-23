@@ -7,7 +7,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 180vh;
+    height: 150vh;
 }
 
 .launcher-container {
@@ -37,7 +37,7 @@ body {
     border: 2px solid #00aaff;
     color: white;
     padding: 20px;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: bold;
     border-radius: 10px;
     cursor: pointer;
