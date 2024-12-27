@@ -40,7 +40,7 @@ body {
 body {
   font-family: "游ゴシック Medium", YuGothic, YuGothicM,
     "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
-  line-height: 1.6;
+  line-height: 0.9;
   display: grid;
   align-content: center;
   min-height: 50svh;
@@ -79,7 +79,7 @@ body {
 
 .card h2 {
   font-family: "Comfortaa", sans-serif;
-  font-size: 18px;
+  font-size: 12px;
   font-weight: 700;
   font-style: normal;
   font-optical-sizing: auto;
