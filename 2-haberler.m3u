@@ -13,13 +13,13 @@ http://50.7.144.122:1935/livetv/cnnturk.stream/sec-f5-v1-a1.m3u8?start=LIVE&end=
 https://c.fulltvizle.com/cnn/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWRjQpazuGWaFtKTt4hu-N1BJkdtH3sl6jEQ&usqp=CAU" group-title="🇹🇷  CNN",CNN
 https://helga.iptv2022.com/cnn_turk/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  AHABER",AHABER
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/edyMHlU_afKwurSN75-1IyslgA2eDSVgW6z145CLey_lLnapvDnVw9PKbxJei1V2aLA" group-title="🇹🇷  AHABER",AHABER
 https://tgn.bozztv.com/dvrfl05/gin-ahaber/playlist.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  NTV",NTV
+#EXTINF:-1 tvg-logo="https://www.medeniyyet.az/img/news/900x/_1583909888.jpg" group-title="🇹🇷  NTV",NTV
 https://tgn.bozztv.com/dvrfl05/gin-ntvtv/tracks-v1a1/mono.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  24 TV",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_360p.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  ÜLKE TV",ÜLKE TV
+#EXTINF:-1 tvg-logo="https://egitim.tossfed.gov.tr/storage/2017/07/indir.png" group-title="🇹🇷  ÜLKE TV",ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  HABER TÛRK",HABER TÛRK
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8?start=LIVE&end=END
