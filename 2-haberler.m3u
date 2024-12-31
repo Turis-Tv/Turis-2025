@@ -17,7 +17,7 @@ https://helga.iptv2022.com/cnn_turk/index.m3u8?start=LIVE&end=END
 https://tgn.bozztv.com/dvrfl05/gin-ahaber/playlist.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://www.medeniyyet.az/img/news/900x/_1583909888.jpg" group-title="🇹🇷  NTV",NTV
 https://tgn.bozztv.com/dvrfl05/gin-ntvtv/tracks-v1a1/mono.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjg1MDIyMTRf/Turis1.jpg" group-title="🇹🇷  24 TV",24 TV
+#EXTINF:-1 tvg-logo="https://od.lk/s/OTFfMjc3OTI1ODZf/24.jpg" group-title="🇹🇷  24 TV",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_360p.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://egitim.tossfed.gov.tr/storage/2017/07/indir.png" group-title="🇹🇷  ÜLKE TV",ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8?start=LIVE&end=END
