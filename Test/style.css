@@ -44,7 +44,7 @@ body {
   display: grid;
   align-content: center;
   min-height: 50svh;
-  padding: 24px;
+  padding: 10px;
   color: #d5cec0;
   gap: 24px;
 
@@ -74,19 +74,19 @@ body {
   place-content: center;
   place-items: center;
   aspect-ratio: 1/1;
-  row-gap: 16px;
+  row-gap: 10px;
 }
 
 .card h2 {
   font-family: "Comfortaa", sans-serif;
-  font-size: 12px;
+  font-size: 2px;
   font-weight: 700;
   font-style: normal;
   font-optical-sizing: auto;
 }
 
 .card p {
-  font-size: 12px;
+  font-size: 8px;
 }
 
 /* こんにちわんこそば！キラキラ✨ホームページエンジニアのとんこつおじさんだよ！ */
